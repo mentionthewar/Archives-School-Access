@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://dataaccessioner.org/schema/dda-1-1" name="Files associated with thesis research">
+  <accession number="A003">
+    <ingest_note>Files associated with thesis research transferred by Jo Pugh on Mon Jan 14 13:18:00 GMT 2019</ingest_note>
+    <ingest_time>00:02:03.123464</ingest_time>
+    <folder name="test files" last_modified="2019-01-14T13:17:08.767">
+      <file name="A Logic Named Joe.htm" last_modified="2013-12-10T14:08:08.934" size="45263" MD5="10c4729131459d93d6b58184d39c293c">
+        <premis:object xmlns:premis="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:uuid="java:java.util.UUID" xsi:type="premis:file">
+          <premis:objectIdentifier>
+            <premis:objectIdentifierType>uuid</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>ec7b3215-8f6c-4a20-ac59-71cfd99006f5</premis:objectIdentifierValue>
+          </premis:objectIdentifier>
+          <premis:objectCharacteristics>
+            <premis:compositionLevel>0</premis:compositionLevel>
+            <premis:fixity>
+              <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+              <premis:messageDigest>10c4729131459d93d6b58184d39c293c</premis:messageDigest>
+              <premis:messageDigestOriginator>OIS File Information</premis:messageDigestOriginator>
+            </premis:fixity>
+            <premis:size>45263</premis:size>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>Hypertext Markup Language</premis:formatName>
+              </premis:formatDesignation>
+              <premis:formatRegistry>
+                <premis:formatRegistryName>http://www.nationalarchives.gov.uk/pronom</premis:formatRegistryName>
+                <premis:formatRegistryKey>fmt/96</premis:formatRegistryKey>
+              </premis:formatRegistry>
+              <premis:formatNote>text/html</premis:formatNote>
+              <premis:formatNote>DROID Signature File Version: 88</premis:formatNote>
+              <premis:formatNote>Identified by: Droid v6.1.5</premis:formatNote>
+              <premis:formatNote>Identified by: file utility v5.03</premis:formatNote>
+              <premis:formatNote>Identified by: Exiftool v10.37</premis:formatNote>
+            </premis:format>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>XHTML</premis:formatName>
+                <premis:formatVersion>1.0</premis:formatVersion>
+              </premis:formatDesignation>
+              <premis:formatNote>text/xml</premis:formatNote>
+              <premis:formatNote>Identified by: Jhove v1.11</premis:formatNote>
+            </premis:format>
+          </premis:objectCharacteristics>
+          <premis:originalName>A Logic Named Joe.htm</premis:originalName>
+        </premis:object>
+      </file>
+      <file name="Causality Discovery Technology.pdf" last_modified="2018-05-13T23:09:58.158" size="587413" MD5="23989868710415bf2ba7af457c7f0804">
+        <premis:object xmlns:premis="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:uuid="java:java.util.UUID" xsi:type="premis:file">
+          <premis:objectIdentifier>
+            <premis:objectIdentifierType>uuid</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>c0d9fa3f-8134-460c-87b7-6d3e39f7837d</premis:objectIdentifierValue>
+          </premis:objectIdentifier>
+          <premis:objectCharacteristics>
+            <premis:compositionLevel>0</premis:compositionLevel>
+            <premis:fixity>
+              <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+              <premis:messageDigest>23989868710415bf2ba7af457c7f0804</premis:messageDigest>
+              <premis:messageDigestOriginator>OIS File Information</premis:messageDigestOriginator>
+            </premis:fixity>
+            <premis:size>587413</premis:size>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>Portable Document Format</premis:formatName>
+                <premis:formatVersion>1.3</premis:formatVersion>
+              </premis:formatDesignation>
+              <premis:formatRegistry>
+                <premis:formatRegistryName>http://www.nationalarchives.gov.uk/pronom</premis:formatRegistryName>
+                <premis:formatRegistryKey>fmt/17</premis:formatRegistryKey>
+              </premis:formatRegistry>
+              <premis:formatNote>application/pdf</premis:formatNote>
+              <premis:formatNote>DROID Signature File Version: 88</premis:formatNote>
+              <premis:formatNote>Identified by: Droid v6.1.5</premis:formatNote>
+              <premis:formatNote>Identified by: Jhove v1.11</premis:formatNote>
+              <premis:formatNote>Identified by: file utility v5.03</premis:formatNote>
+              <premis:formatNote>Identified by: Exiftool v10.37</premis:formatNote>
+              <premis:formatNote>Identified by: NLNZ Metadata Extractor v3.6GA</premis:formatNote>
+              <premis:formatNote>Identified by: ffident v0.2</premis:formatNote>
+              <premis:formatNote>Identified by: Tika v1.10</premis:formatNote>
+            </premis:format>
+          </premis:objectCharacteristics>
+          <premis:originalName>Causality Discovery Technology.pdf</premis:originalName>
+        </premis:object>
+      </file>
+      <file name="Dialogue of Comfort" last_modified="2014-05-26T16:39:40.405" size="580989" MD5="5f424b738317ba42b48ffea007399eb1">
+        <premis:object xmlns:premis="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:uuid="java:java.util.UUID" xsi:type="premis:file">
+          <premis:objectIdentifier>
+            <premis:objectIdentifierType>uuid</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>cd8b8f3d-e777-4746-8eac-1288acc6e356</premis:objectIdentifierValue>
+          </premis:objectIdentifier>
+          <premis:objectCharacteristics>
+            <premis:compositionLevel>0</premis:compositionLevel>
+            <premis:fixity>
+              <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+              <premis:messageDigest>5f424b738317ba42b48ffea007399eb1</premis:messageDigest>
+              <premis:messageDigestOriginator>OIS File Information</premis:messageDigestOriginator>
+            </premis:fixity>
+            <premis:size>580989</premis:size>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>Plain text</premis:formatName>
+              </premis:formatDesignation>
+              <premis:formatNote>text/plain</premis:formatNote>
+              <premis:formatNote>Identified by: Jhove v1.11</premis:formatNote>
+              <premis:formatNote>Identified by: file utility v5.03</premis:formatNote>
+            </premis:format>
+          </premis:objectCharacteristics>
+          <premis:originalName>Dialogue of Comfort</premis:originalName>
+        </premis:object>
+      </file>
+      <file name="First Words on Teaching and Learning - David Baume.mobi" last_modified="2014-08-27T15:24:10.701" size="382138" MD5="74efac9fb54a5af4890fda8d6b4d72cb">
+        <premis:object xmlns:premis="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:uuid="java:java.util.UUID" xsi:type="premis:file">
+          <premis:objectIdentifier>
+            <premis:objectIdentifierType>uuid</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>56e1f351-2943-41e8-b1d5-ffbe44ad2dfb</premis:objectIdentifierValue>
+          </premis:objectIdentifier>
+          <premis:objectCharacteristics>
+            <premis:compositionLevel>0</premis:compositionLevel>
+            <premis:fixity>
+              <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+              <premis:messageDigest>74efac9fb54a5af4890fda8d6b4d72cb</premis:messageDigest>
+              <premis:messageDigestOriginator>OIS File Information</premis:messageDigestOriginator>
+            </premis:fixity>
+            <premis:size>382138</premis:size>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>Hypertext Markup Language</premis:formatName>
+              </premis:formatDesignation>
+              <premis:formatNote>text/html</premis:formatNote>
+              <premis:formatNote>Identified by: Jhove v1.11</premis:formatNote>
+            </premis:format>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>MOBI</premis:formatName>
+              </premis:formatDesignation>
+              <premis:formatNote>application/x-mobipocket-ebook</premis:formatNote>
+              <premis:formatNote>Identified by: Exiftool v10.37</premis:formatNote>
+            </premis:format>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>Mobipocket Ebook</premis:formatName>
+              </premis:formatDesignation>
+              <premis:formatNote>application/x-mobipocket-ebook</premis:formatNote>
+              <premis:formatNote>Identified by: Tika v1.10</premis:formatNote>
+            </premis:format>
+          </premis:objectCharacteristics>
+          <premis:originalName>First Words on Teaching and Learning - David Baume.mobi</premis:originalName>
+        </premis:object>
+      </file>
+      <file name="Ruecker et al - Visual Interface Design notes.odt" last_modified="2016-07-09T15:18:34.425" size="37923" MD5="4e77f1c33d74fdab303c94fa53662a6c">
+        <premis:object xmlns:premis="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:uuid="java:java.util.UUID" xsi:type="premis:file">
+          <premis:objectIdentifier>
+            <premis:objectIdentifierType>uuid</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>debf1a94-9d10-4fb7-95e8-129101f744af</premis:objectIdentifierValue>
+          </premis:objectIdentifier>
+          <premis:objectCharacteristics>
+            <premis:compositionLevel>0</premis:compositionLevel>
+            <premis:fixity>
+              <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+              <premis:messageDigest>4e77f1c33d74fdab303c94fa53662a6c</premis:messageDigest>
+              <premis:messageDigestOriginator>OIS File Information</premis:messageDigestOriginator>
+            </premis:fixity>
+            <premis:size>37923</premis:size>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>OpenDocument Text</premis:formatName>
+                <premis:formatVersion>1.2</premis:formatVersion>
+              </premis:formatDesignation>
+              <premis:formatRegistry>
+                <premis:formatRegistryName>http://www.nationalarchives.gov.uk/pronom</premis:formatRegistryName>
+                <premis:formatRegistryKey>fmt/291</premis:formatRegistryKey>
+              </premis:formatRegistry>
+              <premis:formatNote>application/vnd.oasis.opendocument.text</premis:formatNote>
+              <premis:formatNote>DROID Signature File Version: 88</premis:formatNote>
+              <premis:formatNote>Identified by: Droid v6.1.5</premis:formatNote>
+              <premis:formatNote>Identified by: file utility v5.03</premis:formatNote>
+              <premis:formatNote>Identified by: Exiftool v10.37</premis:formatNote>
+              <premis:formatNote>Identified by: NLNZ Metadata Extractor v3.6GA</premis:formatNote>
+              <premis:formatNote>Identified by: Tika v1.10</premis:formatNote>
+            </premis:format>
+          </premis:objectCharacteristics>
+          <premis:originalName>Ruecker et al - Visual Interface Design notes.odt</premis:originalName>
+        </premis:object>
+      </file>
+      <file name="Storm Harding - Jumping the Paywall.odp" last_modified="2015-04-29T08:02:01.944" size="1389502" MD5="a892aede8158b6d16ac006eb50b5235a">
+        <premis:object xmlns:premis="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:uuid="java:java.util.UUID" xsi:type="premis:file">
+          <premis:objectIdentifier>
+            <premis:objectIdentifierType>uuid</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>a6f5fad9-e7db-4d7f-ad09-855e41e65f6c</premis:objectIdentifierValue>
+          </premis:objectIdentifier>
+          <premis:objectCharacteristics>
+            <premis:compositionLevel>0</premis:compositionLevel>
+            <premis:fixity>
+              <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+              <premis:messageDigest>a892aede8158b6d16ac006eb50b5235a</premis:messageDigest>
+              <premis:messageDigestOriginator>OIS File Information</premis:messageDigestOriginator>
+            </premis:fixity>
+            <premis:size>1389502</premis:size>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>OpenDocument Presentation</premis:formatName>
+                <premis:formatVersion>1.2</premis:formatVersion>
+              </premis:formatDesignation>
+              <premis:formatRegistry>
+                <premis:formatRegistryName>http://www.nationalarchives.gov.uk/pronom</premis:formatRegistryName>
+                <premis:formatRegistryKey>fmt/293</premis:formatRegistryKey>
+              </premis:formatRegistry>
+              <premis:formatNote>application/vnd.oasis.opendocument.presentation</premis:formatNote>
+              <premis:formatNote>DROID Signature File Version: 88</premis:formatNote>
+              <premis:formatNote>Identified by: Droid v6.1.5</premis:formatNote>
+              <premis:formatNote>Identified by: file utility v5.03</premis:formatNote>
+              <premis:formatNote>Identified by: Exiftool v10.37</premis:formatNote>
+              <premis:formatNote>Identified by: Tika v1.10</premis:formatNote>
+            </premis:format>
+          </premis:objectCharacteristics>
+          <premis:originalName>Storm Harding - Jumping the Paywall.odp</premis:originalName>
+        </premis:object>
+      </file>
+      <file name="Temporal Modelling.doc" last_modified="2013-02-04T17:16:20.399" size="1944576" MD5="505d77afff9455b0eaac6603adcf3beb">
+        <premis:object xmlns:premis="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:uuid="java:java.util.UUID" xsi:type="premis:file">
+          <premis:objectIdentifier>
+            <premis:objectIdentifierType>uuid</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>ae76a0b4-360d-4b90-9028-b791776fc4bb</premis:objectIdentifierValue>
+          </premis:objectIdentifier>
+          <premis:objectCharacteristics>
+            <premis:compositionLevel>0</premis:compositionLevel>
+            <premis:fixity>
+              <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+              <premis:messageDigest>505d77afff9455b0eaac6603adcf3beb</premis:messageDigest>
+              <premis:messageDigestOriginator>OIS File Information</premis:messageDigestOriginator>
+            </premis:fixity>
+            <premis:size>1944576</premis:size>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>Microsoft Word Binary File Format</premis:formatName>
+                <premis:formatVersion>97-2003</premis:formatVersion>
+              </premis:formatDesignation>
+              <premis:formatRegistry>
+                <premis:formatRegistryName>http://www.nationalarchives.gov.uk/pronom</premis:formatRegistryName>
+                <premis:formatRegistryKey>fmt/40</premis:formatRegistryKey>
+              </premis:formatRegistry>
+              <premis:formatNote>application/msword</premis:formatNote>
+              <premis:formatNote>DROID Signature File Version: 88</premis:formatNote>
+              <premis:formatNote>Identified by: Droid v6.1.5</premis:formatNote>
+              <premis:formatNote>Identified by: Exiftool v10.37</premis:formatNote>
+              <premis:formatNote>Identified by: NLNZ Metadata Extractor v3.6GA</premis:formatNote>
+              <premis:formatNote>Identified by: Tika v1.10</premis:formatNote>
+            </premis:format>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>Microsoft Excel Format</premis:formatName>
+              </premis:formatDesignation>
+              <premis:formatNote>application/vnd.ms-excel</premis:formatNote>
+              <premis:formatNote>Identified by: ffident v0.2</premis:formatNote>
+            </premis:format>
+          </premis:objectCharacteristics>
+          <premis:originalName>Temporal Modelling.doc</premis:originalName>
+        </premis:object>
+      </file>
+      <file name="Yakel - Thinking inside and outside the boxes.pdf" last_modified="2018-03-22T19:41:55.783" size="155255" MD5="42422a7a37550f8988fa06ffb74ae5c5">
+        <premis:object xmlns:premis="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:uuid="java:java.util.UUID" xsi:type="premis:file">
+          <premis:objectIdentifier>
+            <premis:objectIdentifierType>uuid</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>2f88cee1-d304-47dc-9af2-91dc4b0ea6c2</premis:objectIdentifierValue>
+          </premis:objectIdentifier>
+          <premis:objectCharacteristics>
+            <premis:compositionLevel>0</premis:compositionLevel>
+            <premis:fixity>
+              <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+              <premis:messageDigest>42422a7a37550f8988fa06ffb74ae5c5</premis:messageDigest>
+              <premis:messageDigestOriginator>OIS File Information</premis:messageDigestOriginator>
+            </premis:fixity>
+            <premis:size>155255</premis:size>
+            <premis:format>
+              <premis:formatDesignation>
+                <premis:formatName>Portable Document Format</premis:formatName>
+                <premis:formatVersion>1.3</premis:formatVersion>
+              </premis:formatDesignation>
+              <premis:formatRegistry>
+                <premis:formatRegistryName>http://www.nationalarchives.gov.uk/pronom</premis:formatRegistryName>
+                <premis:formatRegistryKey>fmt/17</premis:formatRegistryKey>
+              </premis:formatRegistry>
+              <premis:formatNote>application/pdf</premis:formatNote>
+              <premis:formatNote>DROID Signature File Version: 88</premis:formatNote>
+              <premis:formatNote>Identified by: Droid v6.1.5</premis:formatNote>
+              <premis:formatNote>Identified by: Jhove v1.11</premis:formatNote>
+              <premis:formatNote>Identified by: file utility v5.03</premis:formatNote>
+              <premis:formatNote>Identified by: Exiftool v10.37</premis:formatNote>
+              <premis:formatNote>Identified by: NLNZ Metadata Extractor v3.6GA</premis:formatNote>
+              <premis:formatNote>Identified by: ffident v0.2</premis:formatNote>
+              <premis:formatNote>Identified by: Tika v1.10</premis:formatNote>
+            </premis:format>
+          </premis:objectCharacteristics>
+          <premis:originalName>Yakel - Thinking inside and outside the boxes.pdf</premis:originalName>
+        </premis:object>
+      </file>
+    </folder>
+  </accession>
+</collection>
+
