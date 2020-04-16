@@ -1,6 +1,8 @@
 # Archives School: Sharing what you have
 Files for the final module of Archives School
 
+A useful <b>cheat sheet for regular expressions</b> can be downloaded via https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf
+
 More information on <b>heuristic evaluation</b> can be found at https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html
 
 <b>Data Accessioner</b> (developed by Duke University in North Carolina) is available from http://dataaccessioner.org/. Output from the tool can be transformed directly into HTML or CSV using the associated Metadata Transformer (http://dataaccessioner.org/da-mt.htm).
