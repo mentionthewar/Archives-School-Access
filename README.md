@@ -1,5 +1,5 @@
 # Archives School: Sharing what you have
-Files for the final module of Archives School
+Links and files for the final module of Archives School
 
 A useful <b>cheat sheet for regular expressions</b> can be downloaded via https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf and https://regex101.com/ is one of many handy sites for trying out your regex.
 
