@@ -9,8 +9,8 @@ More information on <b>heuristic evaluation</b> can be found at https://www.usab
 
 <b> Quick View Plus </B> is $100 and the latest version is available from https://www.avantstar.com/quick-view-plus-2020#fndtn-overview
 
-The Digital Library Federation's full paper on levels of born digital access is <a href="https://osf.io/hqmy4/">available here</a>
+The Digital Library Federation's full paper on <b>levels of born digital access</b> is <a href="https://osf.io/hqmy4/">available here</a>
 
 <a href="https://library.stanford.edu/projects/epadd">EPADD, developed by Stanford University</a> is a tool well worth experimenting with, either in Stanford's own implementation or by running it yourself with some test emails.
 
-Wellcome's paper on their workshop investigating what researchers want and expect from born digital access can be found at: https://wellcome.figshare.com/articles/Overview_of_a_born-digital_archives_access_workshop_held_at_Wellcome_Collection/6087194
+Wellcome's paper on their workshop investigating <b> what researchers want and expect from born digital access </b> can be found at: https://wellcome.figshare.com/articles/Overview_of_a_born-digital_archives_access_workshop_held_at_Wellcome_Collection/6087194
