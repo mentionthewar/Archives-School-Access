@@ -8,3 +8,5 @@ More information on <b>heuristic evaluation</b> can be found at https://www.usab
 <b>Data Accessioner</b> (developed by Duke University in North Carolina) is available from http://dataaccessioner.org/. Output from the tool can be transformed directly into HTML or CSV using the associated Metadata Transformer (http://dataaccessioner.org/da-mt.htm).
 
 <b> Quick View Plus </B> is $100 and the latest version is available from https://www.avantstar.com/quick-view-plus-2020#fndtn-overview
+
+The Digital Library Federation's full paper on levels of born digital access is <a href="https://osf.io/hqmy4/">available here</a>
