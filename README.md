@@ -15,4 +15,4 @@ The Digital Library Federation's full paper on <b>levels of born digital access<
 
 Wellcome's paper on their workshop investigating <b> what researchers want and expect from born digital access </b> can be found at: https://wellcome.figshare.com/articles/Overview_of_a_born-digital_archives_access_workshop_held_at_Wellcome_Collection/6087194
 
-On the National Archives' own website Matt Hillyard's excellent <b>7 Pillars of Metadata</b> post is at https://blog.nationalarchives.gov.uk/digital-archiving-seven-pillars-metadata/ and you can explore the <b> Alpha prototypes </a> via https://alpha.nationalarchives.gov.uk/
+On the National Archives' own website Matt Hillyard's excellent <b>Seven Pillars of Metadata post</b> is at https://blog.nationalarchives.gov.uk/digital-archiving-seven-pillars-metadata/ and you can explore the <b> Alpha prototypes </b> via https://alpha.nationalarchives.gov.uk/
